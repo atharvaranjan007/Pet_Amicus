@@ -49,7 +49,7 @@ Artificial Intelligence is incorporated selectively to enhance specific features
 
 # ❗ Problem Statement
 
-Millions of pet owners spend long hours away from home because of work, education, or travel. During this period, pets often experience irregular feeding, inadequate hydration, poor hygiene, loneliness, unsafe temperatures, and lack of supervision.
+Millions of pet owners spend long hours away from home because of work, education, or travel. During this period, pets often experience irregular feeding, inadequate hydration, poor hygiene, loneliness, unsafe temperatures, and lack of supervision. Also when pets are away from their owners they suffer from seperation anxiety, boredom, depression and ruinous.
 
 Similarly, stray animals struggle with limited access to food, clean water, shelter, healthcare, and protection from harsh weather conditions.
 
