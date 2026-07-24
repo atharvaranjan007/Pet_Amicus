@@ -12,6 +12,7 @@ The system addresses common challenges faced by pet owners, such as irregular fe
 Rather than replacing human care, Pet Amicus acts as a smart companion that assists owners in providing better care through technology.
 
 🎯 Objectives
+
 Improve pet health and well-being.
 Assist owners in providing continuous care.
 Reduce stress and anxiety for pets left alone.
@@ -20,6 +21,7 @@ Promote responsible pet ownership.
 Support future smart shelter systems for stray animals.
 
 🚨 The Problem
+
 Modern lifestyles often leave pets alone for several hours every day. During this time they may experience:
 
 Missed meals and irregular hydration
