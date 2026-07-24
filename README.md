@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-success)
 ![Technology](https://img.shields.io/badge/Technology-IoT-blue)
 ![AI](https://img.shields.io/badge/AI-Feature%20Enhanced-orange)
-![Platform](https://img.shields.io/badge/Platform-Flutter-green)
+
 
 
 Building a smarter, safer and more compassionate future for pets through innovation.
