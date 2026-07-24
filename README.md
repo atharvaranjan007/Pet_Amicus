@@ -307,8 +307,9 @@ Future versions will include an AI-powered assistant capable of providing:
 
 ## Software
 
-- Flutter
-- Firebase
+- HTML
+- OpenCV
+- TensorFlow
 - Arduino IDE
 - Android Studio
 
@@ -316,14 +317,14 @@ Future versions will include an AI-powered assistant capable of providing:
 
 ## AI Technologies
 
-| Technology | Purpose |
-|------------|---------|
-| Computer Vision | Activity Monitoring |
-| Machine Learning | Personalized Recommendations |
-| Activity Recognition | Behaviour Analysis |
-| Anomaly Detection | Health Insights |
-| Recommendation Systems | Smart Care Suggestions |
-| Large Language Models *(Future)* | AI Pet Assistant |
+| Technology                       | Purpose                      |
+|----------------------------------|------------------------------|
+| Computer Vision                  | Activity Monitoring          |
+| Machine Learning                 | Personalized Recommendations |
+| Activity Recognition             | Behaviour Analysis           |
+| Anomaly Detection                | Health Insights              |
+| Recommendation Systems           | Smart Care Suggestions       |
+| Large Language Models *(Future)* | AI Pet Assistant             |
 
 ---
 
@@ -354,29 +355,10 @@ Future versions will include an AI-powered assistant capable of providing:
              Pet Owner
 ```
 
----
-
-# 📂 Repository Structure
-
-```text
-Pet-Amicus/
-
-│── README.md
-
-├── app/
-├── ai/
-├── docs/
-├── firmware/
-├── hardware/
-├── images/
-├── presentation/
-├── testing/
-└── videos/
-```
 
 ---
 
-# 🌍 Expected Impact
+# 🌍 Impact
 
 Pet Amicus aims to:
 
@@ -392,29 +374,11 @@ Pet Amicus aims to:
 # 🚀 Future Scope
 
 - AI-based Emotion Recognition
-- Breed Recognition
 - Health Prediction Models
 - Veterinary Consultation Support
 - Wearable Pet Health Monitoring
 - Voice-enabled Interaction
-- NGO Integration
 - Municipal Smart Shelter Network
-
----
-
-# 👥 Team
-
-**Project:** Pet Amicus
-
-Developed by passionate student innovators dedicated to combining engineering, innovation, and compassion to improve animal welfare through technology.
-
----
-
-# 🤝 Acknowledgements
-
-We sincerely thank our mentors, school, supporters, and everyone who provided valuable guidance, feedback, and encouragement throughout the development of Pet Amicus.
-
-Their support has played an important role in transforming this idea into a meaningful innovation.
 
 ---
 
@@ -422,6 +386,6 @@ Their support has played an important role in transforming this idea into a mean
 
 ## 🐾 Every Pet Deserves a Smarter Tomorrow
 
-**Made with ❤️ for Pets | Powered by Innovation**
+**Made with ❤️ for Pets**
 
 </div>
