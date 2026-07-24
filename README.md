@@ -384,9 +384,9 @@ Pet Amicus aims to:
 
 # 🔗 Important Links
 
-- 🌍 **Website:** https://safespark-34tilip.gamma.site/
+- 🌍 **Website:** https://pet-amicus-iijnbhf.gamma.site/
 - 📊 **Pitch Deck:** https://canva.link/zusp77dpmxhmesx
-- 🎥 **Demo Video:** https://youtu.be/OgLcAowQWgk?si=PP6CzOL1kh4WwGtI
+- 🎥 **Demo Video:** https://youtu.be/FWLDZ2Lfibc
 - 💻 **GitHub Repository:** https://github.com/atharvaranjan007/Safe-Spark-
 
  ---
