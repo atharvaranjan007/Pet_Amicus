@@ -382,6 +382,15 @@ Pet Amicus aims to:
 
 ---
 
+# 🔗 Important Links
+
+- 🌍 **Website:** https://safespark-34tilip.gamma.site/
+- 📊 **Pitch Deck:** https://canva.link/o5wafgyyv6uvfmu
+- 🎥 **Demo Video:** https://youtu.be/OgLcAowQWgk?si=PP6CzOL1kh4WwGtI
+- 💻 **GitHub Repository:** https://github.com/atharvaranjan007/Safe-Spark-
+
+ ---
+
 <div align="center">
 
 ## 🐾 Every Pet Deserves a Smarter Tomorrow
