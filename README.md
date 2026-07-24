@@ -2,7 +2,7 @@
 
 # 🐾 Pet Amicus
 
-### Smart Pet Care Ecosystem Powered by IoT & Enhanced with Artificial Intelligence
+### Smart Pet House Powered by IoT & Enhanced with Artificial Intelligence
 
 *"Because every pet deserves care, comfort, and companionship—even when you're away."*
 
@@ -61,7 +61,7 @@ Pet Amicus provides a unified smart ecosystem that integrates automation, monito
 
 # 💡 Our Solution
 
-Pet Amicus combines IoT devices, embedded systems, cloud connectivity, and a companion mobile application to provide continuous pet care.
+Pet Amicus combines IoT devices, embedded systems, cloud connectivity, and a companion to provide continuous pet care.
 
 The system automates routine tasks such as feeding, temperature regulation, and environmental management while allowing owners to remotely monitor and control their pet's surroundings.
 
