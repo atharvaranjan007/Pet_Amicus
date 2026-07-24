@@ -11,7 +11,6 @@
 ![AI](https://img.shields.io/badge/AI-Feature%20Enhanced-orange)
 ![Platform](https://img.shields.io/badge/Platform-Flutter-green)
 
-### 🌟 AI Nexus Finalist
 
 Building a smarter, safer and more compassionate future for pets through innovation.
 
