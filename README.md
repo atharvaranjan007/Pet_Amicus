@@ -1,5 +1,8 @@
+___
+
 <div align="center">
 
+  
 # 🐾 Pet Amicus
 
 ### Smart Pet Care Ecosystem Powered by IoT & Enhanced with Artificial Intelligence
