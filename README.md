@@ -61,11 +61,9 @@ Pet Amicus provides a unified smart ecosystem that integrates automation, monito
 
 # 💡 Our Solution
 
-Pet Amicus combines IoT devices, embedded systems, cloud connectivity, and a companion to provide continuous pet care.
+Pet Amicus is a next-generation smart pet home that seamlessly combines intelligent hardware, IoT connectivity, and AI-assisted features to redefine pet care. Designed as a complete ecosystem rather than a single device, it automates essential care functions such as feeding, temperature regulation, hygiene, and real-time monitoring, while a companion mobile application enables remote management from anywhere. 
 
-The system automates routine tasks such as feeding, temperature regulation, and environmental management while allowing owners to remotely monitor and control their pet's surroundings.
-
-Artificial Intelligence is used to improve selected features by providing intelligent observations, personalized recommendations, behavioural insights, and smart notifications.
+By incorporating AI for behavioural insights, health monitoring, and personalized recommendations, Pet Amicus provides smarter, safer, and more compassionate care for pets.
 
 ---
 
@@ -82,6 +80,7 @@ Ensures pets receive food on time through automatic scheduling and remote feedin
 - Manual feeding using the mobile app
 - Food level monitoring
 - Feeding notifications
+- Prevents food wastage
 
 **Future AI Enhancement**
 
@@ -105,13 +104,13 @@ AI can analyse drinking behaviour and identify unusual water consumption that ma
 
 ---
 
-## 🌡️ Intelligent Temperature Control
+## 🌡️ Smart Temperature Control
 
 Maintains a comfortable indoor environment using sensors and automated cooling or heating mechanisms.
 
 **Features**
 
-- Temperature monitoring
+- Temperature control according to type of pet and its breed
 - Automatic cooling/heating
 - Real-time environmental control
 
@@ -119,7 +118,6 @@ Maintains a comfortable indoor environment using sensors and automated cooling o
 
 Machine Learning can recommend personalized temperature settings based on:
 
-- Breed
 - Fur type
 - Weather conditions
 - Seasonal variations
@@ -136,8 +134,6 @@ Allows owners to monitor pets remotely through an integrated camera system.
 - Live video streaming
 - Remote monitoring
 - Mobile notifications
-
-**Future AI Enhancement**
 
 Computer Vision can recognize activities such as:
 
@@ -179,6 +175,7 @@ The Pet Amicus mobile application enables owners to:
 - Adjust temperature
 - Receive smart notifications
 - Manage multiple pet profiles
+- Clean the pet house
 
 ---
 
@@ -287,6 +284,7 @@ Future versions will include an AI-powered assistant capable of providing:
 - First-aid information
 - Vaccination reminders
 - General pet-care assistance
+- And many more.....
 
 ---
 
@@ -295,6 +293,7 @@ Future versions will include an AI-powered assistant capable of providing:
 ## Hardware
 
 - ESP32 / NodeMCU
+- Arduino UNO
 - Camera Module
 - Servo Motors
 - Temperature Sensor
