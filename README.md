@@ -1,8 +1,5 @@
-___
-
 <div align="center">
 
-  
 # 🐾 Pet Amicus
 
 ### Smart Pet Care Ecosystem Powered by IoT & Enhanced with Artificial Intelligence
@@ -14,221 +11,189 @@ ___
 ![AI](https://img.shields.io/badge/AI-Feature%20Enhanced-orange)
 ![Platform](https://img.shields.io/badge/Platform-Flutter-green)
 
+### 🌟 AI Nexus Finalist
+
+Building a smarter, safer and more compassionate future for pets through innovation.
+
+</div>
+
 ---
 
 # 📖 About Pet Amicus
 
-Pet Amicus is an intelligent **IoT-enabled Smart Pet Care Ecosystem** designed to ensure the health, safety, hygiene, and emotional well-being of pets while giving owners complete peace of mind.
+Pet Amicus is an IoT-enabled smart pet care ecosystem designed to provide pets with a safe, healthy, hygienic, and comfortable environment while giving owners complete peace of mind.
 
-Today's fast-paced lifestyles often prevent owners from providing continuous care to their pets. Long working hours, travel, and busy schedules can result in irregular feeding, poor monitoring, separation anxiety, and unsafe living conditions. Pet Amicus addresses these challenges by combining smart automation, remote monitoring, and selected AI-assisted features into one integrated solution.
+Busy lifestyles often make it difficult for owners to monitor and care for their pets throughout the day. Pet Amicus addresses this challenge by integrating smart automation, remote monitoring, and AI-assisted insights into a single intelligent ecosystem.
 
-Unlike conventional pet houses or standalone automatic feeders, Pet Amicus creates a complete ecosystem capable of caring for pets throughout the day while keeping owners connected through a mobile application.
+The project combines embedded hardware, sensors, cloud connectivity, and a mobile application to automate daily pet care while allowing owners to stay connected with their pets anytime and from anywhere.
 
-Artificial Intelligence is **not the core of the system** but is strategically integrated into specific features where intelligent decision-making improves pet welfare and user experience.
+Artificial Intelligence is incorporated selectively to enhance specific features such as behavioural analysis, health insights, personalized recommendations, and intelligent notifications, making the system smarter without replacing its core IoT functionality.
 
 ---
 
 # 🎯 Vision
 
-> **To build a future where technology enables every pet to live a healthier, safer, happier, and more comfortable life while empowering owners with intelligent pet care solutions.**
+> **To create a future where technology enables every pet to live a healthier, safer, happier, and more comfortable life while empowering owners through intelligent pet care solutions.**
 
 ---
 
-# 🎯 Mission
+# 🎯 Objectives
 
-- Deliver smart and reliable pet care.
-- Reduce stress for both pets and owners.
-- Improve pet health through intelligent monitoring.
-- Encourage responsible pet ownership.
-- Support sustainable animal welfare initiatives.
-- Create scalable smart shelters for stray animals.
+- Improve pet health and well-being.
+- Simplify daily pet care through automation.
+- Reduce stress and separation anxiety in pets.
+- Help owners monitor their pets remotely.
+- Promote responsible pet ownership.
+- Build scalable smart shelters for stray animals in the future.
 
 ---
 
 # ❗ Problem Statement
 
-Pet ownership is increasing rapidly across the world, yet continuous pet care remains a significant challenge.
+Millions of pet owners spend long hours away from home because of work, education, or travel. During this period, pets often experience irregular feeding, inadequate hydration, poor hygiene, loneliness, unsafe temperatures, and lack of supervision.
 
-Many pet owners spend long hours away from home because of work, education, travel, or emergencies. During this time, pets may experience:
+Similarly, stray animals struggle with limited access to food, clean water, shelter, healthcare, and protection from harsh weather conditions.
 
-- Missed meals
-- Dehydration
-- Uncomfortable temperatures
-- Poor hygiene
-- Loneliness
-- Separation anxiety
-- Lack of supervision during emergencies
+Most existing pet-care products focus on solving only one problem, such as feeding or monitoring, requiring owners to purchase multiple devices.
 
-Similarly, stray animals suffer from inadequate shelter, food scarcity, diseases, harsh weather conditions, and limited access to healthcare.
-
-Existing products generally solve only one problem at a time—such as feeding, monitoring, or shelter—but fail to provide a comprehensive solution.
-
-Pet Amicus bridges this gap by integrating multiple smart technologies into one intelligent ecosystem.
+Pet Amicus provides a unified smart ecosystem that integrates automation, monitoring, hygiene, safety, and intelligent assistance into one platform.
 
 ---
 
 # 💡 Our Solution
 
-Pet Amicus is a smart pet care ecosystem that combines **IoT devices, automation, mobile connectivity, and AI-assisted intelligence** to provide continuous care for pets.
+Pet Amicus combines IoT devices, embedded systems, cloud connectivity, and a companion mobile application to provide continuous pet care.
 
-The system automates routine tasks while allowing owners to monitor and control every essential function remotely.
+The system automates routine tasks such as feeding, temperature regulation, and environmental management while allowing owners to remotely monitor and control their pet's surroundings.
 
-Selected AI technologies enhance monitoring, analysis, and personalization without replacing the core automation system.
+Artificial Intelligence is used to improve selected features by providing intelligent observations, personalized recommendations, behavioural insights, and smart notifications.
 
 ---
 
-# ✨ Features
+# ✨ Core Features
 
 ## 🍽️ Smart Feeding System
 
-Ensures pets receive food at scheduled times even when owners are away.
+Ensures pets receive food on time through automatic scheduling and remote feeding controls.
 
-### Features
+**Features**
 
 - Automatic food dispensing
 - Scheduled feeding
-- Manual feeding through mobile app
-- Food storage management
-- Low food notifications
+- Manual feeding using the mobile app
+- Food level monitoring
+- Feeding notifications
 
-### AI Enhancement
+**Future AI Enhancement**
 
-Machine Learning can learn feeding behaviour and recommend optimized feeding schedules according to:
-
-- Breed
-- Age
-- Weight
-- Activity level
-- Historical feeding data
+Machine Learning can study feeding behaviour and recommend optimized feeding schedules based on the pet's breed, age, weight, activity level, and previous eating patterns.
 
 ---
 
 ## 💧 Smart Water Management
 
-Provides continuous access to clean drinking water.
+Provides pets with continuous access to clean drinking water.
 
-### Features
+**Features**
 
 - Automatic water dispensing
 - Water level monitoring
-- Low water alerts
+- Low-water notifications
 
-### AI Enhancement
+**Future AI Enhancement**
 
-AI analyses drinking patterns and identifies sudden changes that may indicate dehydration or illness.
+AI can analyse drinking behaviour and identify unusual water consumption that may indicate dehydration or illness.
 
 ---
 
-## 🌡️ Smart Temperature Control
+## 🌡️ Intelligent Temperature Control
 
-Maintains an ideal indoor environment for maximum pet comfort.
+Maintains a comfortable indoor environment using sensors and automated cooling or heating mechanisms.
 
-### Features
+**Features**
 
-- Temperature sensing
+- Temperature monitoring
 - Automatic cooling/heating
-- Real-time monitoring
+- Real-time environmental control
 
-### AI Enhancement
+**Future AI Enhancement**
 
-Machine Learning recommends personalized temperature settings by considering:
+Machine Learning can recommend personalized temperature settings based on:
 
 - Breed
 - Fur type
-- Weather
-- Seasonal conditions
+- Weather conditions
+- Seasonal variations
 - Previous comfort preferences
 
 ---
 
-## 📹 Live Monitoring
+## 📹 Live Monitoring System
 
-Owners can monitor their pets remotely through an integrated camera.
+Allows owners to monitor pets remotely through an integrated camera system.
 
-### Features
+**Features**
 
 - Live video streaming
-- Remote access
-- Real-time notifications
+- Remote monitoring
+- Mobile notifications
 
-### AI Enhancement
+**Future AI Enhancement**
 
-Computer Vision analyses camera feeds to recognize activities such as:
+Computer Vision can recognize activities such as:
 
-- Sleeping
 - Eating
+- Sleeping
 - Playing
 - Walking
 - Resting
 
-Future versions may detect unusual inactivity and emergency situations.
+It can also identify unusual inactivity and notify the owner.
 
 ---
 
 ## 🧼 UV Sterilization
 
-Maintains a hygienic environment by reducing harmful microorganisms using UV LEDs.
-
-### Benefits
-
-- Cleaner surroundings
-- Reduced microbial growth
-- Improved pet hygiene
+Maintains a cleaner environment by reducing harmful microorganisms inside the pet house using UV LEDs.
 
 ---
 
 ## 🦟 Smart Pest Protection
 
-Protects pets from mosquitoes and insects using a safe pest repellent system.
-
-### Benefits
-
-- Reduced insect bites
-- Better comfort
-- Improved health
+Protects pets from mosquitoes and insects, improving both comfort and health.
 
 ---
 
 ## 💡 Smart Sleep Mode
 
-Automatically adjusts lighting to provide a calm and comfortable sleeping environment.
-
-### Benefits
-
-- Better sleep quality
-- Reduced stress
-- Improved relaxation
+Automatically adjusts lighting conditions to create a calm environment that promotes healthy sleep.
 
 ---
 
 ## 📱 Mobile Application
 
-The companion mobile application provides complete remote control of the system.
+The Pet Amicus mobile application enables owners to:
 
-Owners can:
-
-- Monitor pets
-- Feed pets remotely
-- Control temperature
+- Monitor pets remotely
 - View live camera feed
-- Receive notifications
+- Feed pets from anywhere
+- Adjust temperature
+- Receive smart notifications
 - Manage multiple pet profiles
 
 ---
 
 # 🤖 AI-Assisted Features
 
-Artificial Intelligence is used selectively to enhance the intelligence of the system.
-
-It transforms automation into adaptive and personalized care.
+Artificial Intelligence is integrated into Pet Amicus to improve decision-making and personalize the overall pet care experience.
 
 ---
 
 ## 🧠 Behaviour Analysis
 
-### Objective
+### Purpose
 
-Understand daily behavioural patterns of pets.
+Observe and understand the daily behavioural patterns of pets.
 
 ### AI Technologies
 
@@ -236,28 +201,26 @@ Understand daily behavioural patterns of pets.
 - Activity Recognition
 - Machine Learning
 
-### AI Analyses
+### AI Can Analyse
 
 - Sleeping duration
 - Activity levels
 - Eating behaviour
-- Playing patterns
+- Playing habits
 - Restlessness
 - Behavioural changes
 
 ### Benefits
 
-- Detects unusual behaviour
-- Helps owners understand pet wellness
-- Enables early intervention
+Provides behavioural insights that help owners identify stress, discomfort, or unusual changes at an early stage.
 
 ---
 
 ## ❤️ Health Insights
 
-### Objective
+### Purpose
 
-Provide intelligent observations based on daily behavioural trends.
+Identify possible health concerns through behavioural analysis.
 
 ### AI Technologies
 
@@ -266,14 +229,14 @@ Provide intelligent observations based on daily behavioural trends.
 
 ### AI Can Detect
 
-- Reduced activity
-- Changes in eating habits
+- Reduced movement
+- Irregular eating
 - Low water intake
-- Irregular sleeping behaviour
+- Changes in sleeping patterns
 
 ### Benefits
 
-These insights help owners identify possible health concerns before they become severe.
+Supports early intervention by notifying owners when abnormal patterns are detected.
 
 ---
 
@@ -283,47 +246,48 @@ These insights help owners identify possible health concerns before they become 
 
 Machine Learning
 
-### AI Considers
+### Parameters Considered
 
 - Breed
 - Age
 - Weight
-- Weather
+- Activity level
 - Daily routine
-- Activity history
+- Environmental conditions
 
 ### Recommendations
 
-- Feeding schedules
-- Comfortable temperatures
-- Daily care routines
+- Feeding schedule
+- Comfortable temperature
+- Daily care routine
+- Environmental adjustments
 
 ---
 
 ## 🚨 Intelligent Notifications
 
-Instead of generating basic alerts, AI prioritizes important events.
+AI prioritizes important events rather than sending routine alerts.
 
 Examples include:
 
-- No movement for extended periods
 - Missed meals
-- Irregular behaviour
+- Prolonged inactivity
+- Behavioural abnormalities
 - Environmental discomfort
 
-This reduces unnecessary notifications while highlighting important events.
+This helps owners focus on situations requiring immediate attention.
 
 ---
 
 ## 💬 AI Pet Care Assistant *(Future Scope)*
 
-Future versions will include an AI assistant capable of providing:
+Future versions will include an AI-powered assistant capable of providing:
 
 - Pet care guidance
-- Nutrition suggestions
+- Nutrition advice
 - First-aid information
 - Vaccination reminders
-- Frequently asked questions
+- General pet-care assistance
 
 ---
 
@@ -360,7 +324,7 @@ Future versions will include an AI assistant capable of providing:
 | Machine Learning | Personalized Recommendations |
 | Activity Recognition | Behaviour Analysis |
 | Anomaly Detection | Health Insights |
-| Recommendation System | Smart Care Suggestions |
+| Recommendation Systems | Smart Care Suggestions |
 | Large Language Models *(Future)* | AI Pet Assistant |
 
 ---
@@ -368,54 +332,29 @@ Future versions will include an AI assistant capable of providing:
 # 🔄 System Workflow
 
 ```text
-                 Pet
-                  │
-        Sensors & Camera Module
-                  │
-            ESP32 / NodeMCU
-                  │
-          Mobile Application
-                  │
-      Remote Monitoring & Control
-                  │
-         Selected AI Processing
-                  │
+                Pet
+                 │
+      Sensors & Camera Module
+                 │
+          ESP32 / NodeMCU
+                 │
+      Cloud Database (Firebase)
+                 │
+        Mobile Application
+                 │
+    Remote Monitoring & Control
+                 │
+     AI-Assisted Feature Processing
+                 │
  ┌────────────────────────────────┐
  │ Behaviour Analysis             │
  │ Health Insights                │
  │ Smart Recommendations          │
  │ Intelligent Notifications      │
  └────────────────────────────────┘
-                  │
+                 │
              Pet Owner
 ```
-
----
-
-# 🌍 Impact
-
-Pet Amicus aims to create meaningful impact by:
-
-- Improving animal health and well-being.
-- Reducing owner stress.
-- Promoting responsible pet ownership.
-- Enhancing hygiene and safety.
-- Supporting NGOs working for stray animals.
-- Encouraging sustainable and technology-driven pet care.
-
----
-
-# 🚀 Future Scope
-
-- AI Emotion Recognition
-- Smart Health Prediction
-- Breed Recognition
-- Voice-enabled Pet Interaction
-- Veterinary Consultation Support
-- Wearable Device Integration
-- Smart Community Shelters
-- NGO & Municipal Corporation Integration
-- Predictive Healthcare Analytics
 
 ---
 
@@ -426,42 +365,65 @@ Pet-Amicus/
 
 │── README.md
 
-├── docs/
-├── hardware/
-├── firmware/
 ├── app/
 ├── ai/
-├── datasets/
-├── testing/
+├── docs/
+├── firmware/
+├── hardware/
 ├── images/
-├── videos/
-└── presentation/
+├── presentation/
+├── testing/
+└── videos/
 ```
+
+---
+
+# 🌍 Expected Impact
+
+Pet Amicus aims to:
+
+- Improve animal welfare.
+- Reduce owner stress.
+- Promote responsible pet ownership.
+- Encourage smarter and safer pet care.
+- Support future smart shelters for stray animals.
+- Contribute towards sustainable and technology-driven communities.
+
+---
+
+# 🚀 Future Scope
+
+- AI-based Emotion Recognition
+- Breed Recognition
+- Health Prediction Models
+- Veterinary Consultation Support
+- Wearable Pet Health Monitoring
+- Voice-enabled Interaction
+- NGO Integration
+- Municipal Smart Shelter Network
 
 ---
 
 # 👥 Team
 
-**Project Name:** Pet Amicus
+**Project:** Pet Amicus
 
-Developed by passionate student innovators dedicated to improving animal welfare through technology, innovation, and intelligent engineering.
+Developed by passionate student innovators dedicated to combining engineering, innovation, and compassion to improve animal welfare through technology.
 
 ---
 
-# 🤝 Contributions
+# 🤝 Acknowledgements
 
-This repository has been developed for the **AI Nexus Innovation Competition**.
+We sincerely thank our mentors, school, supporters, and everyone who provided valuable guidance, feedback, and encouragement throughout the development of Pet Amicus.
 
-We welcome constructive feedback, suggestions, and collaborations to further improve Pet Amicus and contribute towards smarter, safer, and more compassionate pet care.
+Their support has played an important role in transforming this idea into a meaningful innovation.
 
 ---
 
 <div align="center">
 
-## 🐾 Every Pet Deserves a Smarter Tomorrow.
+## 🐾 Every Pet Deserves a Smarter Tomorrow
 
-### *Technology with Compassion.*
-
-⭐ If you found this project inspiring, consider giving it a star!
+**Made with ❤️ for Pets | Powered by Innovation**
 
 </div>
