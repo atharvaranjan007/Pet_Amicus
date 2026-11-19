@@ -384,7 +384,7 @@ Pet Amicus aims to:
 
 # 🔗 Important Links
 
-- 🌍 **Website:** https://pet-amicus-iijnbhf.gamma.site/
+- 🌍 **Website:** https://atharvaranjan1006.wixstudio.com/petamicus
 - 📊 **Pitch Deck:** https://canva.link/zusp77dpmxhmesx
 - 🎥 **Demo Video:** https://youtu.be/FWLDZ2Lfibc
 - 💻 **GitHub Repository:** https://github.com/atharvaranjan007/Safe-Spark-
